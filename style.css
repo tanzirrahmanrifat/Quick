@@ -141,11 +141,13 @@ header {
 
 
   .unless_img {
-    width: 32%;
-    text-align: center;
+    width: 28%;
+    /* text-align: center; */
     background: #FDEBED;
     float: left;
     margin-right: 1%;
+    text-align: left;
+    padding: 0 2%;
   }
   .unless_img img {
     width: 100%;
